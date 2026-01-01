@@ -1,1 +1,1 @@
-# student-performance-predictor
+# sutonomous study planner engine
